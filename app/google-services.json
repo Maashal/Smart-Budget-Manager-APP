@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "724471475995",
+    "firebase_url": "https://repshopsms.firebaseio.com",
+    "project_id": "repshopsms",
+    "storage_bucket": "repshopsms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724471475995:android:50f8666207f9731f",
+        "android_client_info": {
+          "package_name": "cs619.project.vu.pbmstp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724471475995-qifkpcviemkukri48men07bjvdlmpulh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cs619.project.vu.pbmstp",
+            "certificate_hash": "8df248052c915c9d72c4d2a0f9e97a677281fded"
+          }
+        },
+        {
+          "client_id": "724471475995-e03keahg6114vrdoesomvcc9d9oje67e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7ydFnyGtohpdu_LvSs6Kv7gQIYfCbUVI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724471475995-e03keahg6114vrdoesomvcc9d9oje67e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
